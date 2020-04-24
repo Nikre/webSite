@@ -8,12 +8,24 @@ body h1 {
   font-weight: bold;
 }
 
+header {
+  font-size: 210%;
+}
+
+h2 {
+  font-size: 170%;
+}
+
 li {
   display: inline;
 }
 
 img {
 	max-width: 80%;
+}
+
+a {
+  color: inherit;
 }
 
 .redColor {
