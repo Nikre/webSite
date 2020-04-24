@@ -5,12 +5,13 @@ body {
 }
 
 header {
-  font-size: 230%;
+  font-size: 235%;
   font-weight: bold;
 }
 
 h2 {
-  font-size: 170%;
+  font-size: 195%;
+  font-style: italic;
 }
 
 li {
@@ -18,7 +19,7 @@ li {
 }
 
 img {
-	max-width: 80%;
+	max-width: 59%;
 }
 
 a {
@@ -35,4 +36,8 @@ a {
 
 .menuFont {
   font-size: 185%;
+}
+
+.onPassLavori {
+    color: yellow; 
 }
