@@ -5,21 +5,19 @@ body {
 }
 
 header {
-  font-size: 230%;
+  font-size: 235%;
   font-weight: bold;
 }
 
 h2 {
-  font-size: 170%;
+  font-size: 195%;
+  font-style: italic;
 }
 
 li {
   display: inline;
 }
 
-img {
-	max-width: 80%;
-}
 
 a {
   color: inherit;
@@ -35,4 +33,12 @@ a {
 
 .menuFont {
   font-size: 185%;
+}
+
+.imgIndex {
+  max-width: 59%;
+}
+
+.imgBio {
+  max-width: 89%;
 }
