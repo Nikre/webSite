@@ -42,3 +42,25 @@ a {
 .imgBio {
   max-width: 89%;
 }
+
+.imgPremi {
+  max-width: 100%;
+}
+
+.center-me {
+  margin: 0 auto;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.fontResize {
+  font-size: 110%;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
