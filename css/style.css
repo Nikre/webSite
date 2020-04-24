@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto Mono', monospace;
   font-weight: lighter;
+  background-image: url("../images/background.gif");
 }
 
 li {
