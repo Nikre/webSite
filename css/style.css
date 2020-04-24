@@ -4,12 +4,9 @@ body {
   background-image: url("../images/background.gif");
 }
 
-body h1 {
-  font-weight: bold;
-}
-
 header {
-  font-size: 210%;
+  font-size: 230%;
+  font-weight: bold;
 }
 
 h2 {
@@ -34,4 +31,8 @@ a {
 
 .centeringSelector {
   text-align: center;
+}
+
+.menuFont {
+  font-size: 185%;
 }
