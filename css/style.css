@@ -1,7 +1,11 @@
 body {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Slab', serif;
   font-weight: lighter;
   background-image: url("../images/background.gif");
+}
+
+body h1 {
+  font-weight: bold;
 }
 
 li {
