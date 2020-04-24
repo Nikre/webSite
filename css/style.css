@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  font-size: 210%;
+  font-size: 230%;
   font-weight: bold;
 }
 
@@ -31,4 +31,8 @@ a {
 
 .centeringSelector {
   text-align: center;
+}
+
+.menuFont {
+  font-size: 185%;
 }
