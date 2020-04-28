@@ -29,6 +29,7 @@ a {
 
 .centeringSelector {
   text-align: center;
+  /*margin: 0 auto;*/
 }
 
 .menuFont {
@@ -59,8 +60,28 @@ a {
 }
 
 .fontResize {
-  font-size: 111%;
+  font-size: 110%;
   font-weight: bold;
   text-align: center;
   text-decoration: underline;
+}
+
+.headerPositioning {
+  position: relative;
+  top: 15px;
+}
+
+.weightImgLavori{
+  width: 65%;
+}
+
+.figcaptionAligment{
+  position: absolute;
+  top: 103%;
+  left: 10%;
+  transform: translate(50%, -50%);
+}
+
+.verticalDistanceRow{
+  padding-top: 60px;
 }
