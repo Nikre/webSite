@@ -10,8 +10,9 @@ header {
 }
 
 h2 {
-  font-size: 195%;
+  font-size: 375%;
   font-style: italic;
+  font-weight: 400;
 }
 
 li {
@@ -37,7 +38,7 @@ a {
 }
 
 .imgIndex {
-  max-width: 59%;
+  max-width: 96%;
 }
 
 .indexNavLeft{
